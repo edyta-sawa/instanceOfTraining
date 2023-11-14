@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/instanceOfTraining/InstanceOfTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceOfTraining/InstanceOfTraining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/instanceOfTraining/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceOfTraining/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceOfTraining/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceOfTraining/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/instanceOfTraining/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceOfTraining/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1699618230989</updated>
     </task>
+    <task id="LOCAL-00001" summary="InstanceOfTraining">
+      <created>1699634342992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699634342992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="InstanceOfTraining" />
+    <option name="LAST_COMMIT_MESSAGE" value="InstanceOfTraining" />
   </component>
 </project>

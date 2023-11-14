@@ -10,4 +10,5 @@ abstract class Person {
     }
 
     abstract void getDescription();
+
 }

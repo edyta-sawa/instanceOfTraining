@@ -15,4 +15,8 @@ public class Worker extends Person{
         System.out.println("My name is: " + name);
         System.out.println("My salary is: " + salary);
     }
+
+    void doTheWork() {
+        System.out.println("I'm working.");
+    }
 }
